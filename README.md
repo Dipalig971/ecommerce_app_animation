@@ -1,16 +1,16 @@
-# ecommerce_app_animation
+# eCommerce Application with Animation
 
-A new Flutter project.
+Welcome to the eCommerce Application with Animation repository! This project is an example of a modern eCommerce app with smooth animations to enhance user experience. The app is built using [Flutter](https://flutter.dev/).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Product listing with detailed view
+- Animated product transitions
+- Shopping cart functionality
+- Checkout process
+- Order history
+- Smooth and interactive UI/UX
+- Responsive design
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/d40aefff-42f5-46d6-b456-0d4f1f1173c0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
